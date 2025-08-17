@@ -2,8 +2,7 @@ import './globals.css';
 import { Inter } from 'next/font/google';
 import ClientLayout from './ClientLayout';
 
-// 定義網站的元數據
-// ⚠️ 注意：metadata 必須在一個沒有 'use client' 的檔案中定義
+
 export const metadata = {
   title: 'OH-FREELIFE',
   description: '我的個人網站',
