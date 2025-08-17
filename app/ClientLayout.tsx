@@ -36,7 +36,7 @@ export default function ClientLayout({
       {/* 網站標題和選單按鈕的頂部區域 */}
       <header className="flex flex-col items-start p-4">
         {/* 網站標題 */}
-        <div className="text-2xl font-bold">OH-FREELIFE</div>
+        <div className="text-4xl font-bold">OH-FREELIFE</div>
         {/* 側拉選單的按鈕（三條槓） */}
         <button
           onClick={toggleMenu}
