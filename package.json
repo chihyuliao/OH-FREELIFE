@@ -1,5 +1,5 @@
 {
-  "name": "my-next-app",
+  "name": "dolphin-animation",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,17 +10,13 @@
   },
   "dependencies": {
     "next": "14.1.0",
-    "react": "18",
-    "react-dom": "18"
-  },
-  "devDependencies": {
-    "@types/node": "latest",
-    "@types/react": "latest",
-    "typescript": "latest",
-    "autoprefixer": "latest",
-    "eslint": "latest",
-    "eslint-config-next": "14.1.0",
-    "postcss": "latest",
-    "tailwindcss": "latest"
+    "react": "^18",
+    "react-dom": "^18",
+    "three": "^0.163.0",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/three": "^0.163.0",
+    "typescript": "^5"
   }
 }
