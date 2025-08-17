@@ -1,25 +1,26 @@
 {
-    "name": "my-next-app",
-    "version": "0.1.0",
-    "private": true,
-    "scripts": {
-      "dev": "next dev",
-      "build": "next build",
-      "start": "next start",
-      "lint": "next lint"
-    },
-    "dependencies": {
-      "next": "14.1.0",
-      "react": "18",
-      "react-dom": "18"
-    },
-    "devDependencies": {
-      "@types/react": "latest",
-      "@types/node": "latest",
-      "autoprefixer": "latest",
-      "eslint": "latest",
-      "eslint-config-next": "14.1.0",
-      "postcss": "latest",
-      "tailwindcss": "latest"
-    }
+  "name": "my-next-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.1.0",
+    "react": "18",
+    "react-dom": "18"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "typescript": "latest",
+    "autoprefixer": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "14.1.0",
+    "postcss": "latest",
+    "tailwindcss": "latest"
   }
+}
